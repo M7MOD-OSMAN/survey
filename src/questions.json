@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1",
+    "question": "1. During team meetings, I usually",
+    "choices": [
+      {
+        "idx": "a",
+        "choice": "provide the team with technical data or information",
+        "userAnswer": ""
+      },
+      {
+        "idx": "b",
+        "choice": "keep the team focused on our mission or goals",
+        "userAnswer": ""
+      },
+      {
+        "idx": "c",
+        "choice": "make sure everyone is involved in the discussion",
+        "userAnswer": ""
+      },
+      {
+        "idx": "d",
+        "choice": "raise questions about our goals or methods",
+        "userAnswer": ""
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "question": "2. In relating to the team leader, I:",
+    "choices": [
+      {
+        "idx": "a",
+        "choice": "suggest that our work be goal-directed.",
+        "userAnswer": ""
+      },
+      {
+        "idx": "b",
+        "choice": "try to help him/her build a positive team climate",
+        "userAnswer": ""
+      },
+      {
+        "idx": "c",
+        "choice": "am willing to disagree with him/her when necessary",
+        "userAnswer": ""
+      },
+      {
+        "idx": "d",
+        "choice": "offer advice based upon my area of expertise",
+        "userAnswer": ""
+      }
+    ]
+  }
+]
